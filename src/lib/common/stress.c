@@ -14,9 +14,9 @@
 #include "lwip/udp.h"
 #include "safe_udp.h"
 #include "task_priorities.h"
-#include "bm_util.h"
+#include "bristlemouth/bm/bm_util.h"
 #include "eth_adin2111.h"
-#include "bm_l2.h"
+#include "bristlemouth/bm/bm_l2.h"
 
 #include "stress.h"
 

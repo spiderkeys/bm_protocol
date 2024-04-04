@@ -3,7 +3,7 @@
 */
 
 #include "abstract_htu_sensor.h"
-#include "bm_printf.h"
+#include "bristlemouth/bm/bm_printf.h"
 #include "bm_pubsub.h"
 #include "bsp.h"
 #include "debug.h"

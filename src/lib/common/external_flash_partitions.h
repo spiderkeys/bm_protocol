@@ -4,7 +4,7 @@
 extern "C" {
 #endif
 
-#include "bm_dfu_message_structs.h"
+#include <bcmp/protocol/messages/bcmp_messages_dfu_v1.h>
 #include <assert.h>
 #include <inttypes.h>
 #include <stdlib.h>

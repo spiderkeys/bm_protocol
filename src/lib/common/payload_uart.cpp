@@ -1,5 +1,5 @@
 #include "payload_uart.h"
-#include "bm_printf.h"
+#include "bristlemouth/bm/bm_printf.h"
 #include "stm32_rtc.h"
 #include "uptime.h"
 

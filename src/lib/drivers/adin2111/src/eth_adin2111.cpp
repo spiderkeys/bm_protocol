@@ -19,8 +19,8 @@
 #include "lwip/ip.h"
 
 #include "adi_bsp.h"
-#include "bcmp.h"
-#include "bm_l2.h"
+#include <bcmp/bcmp.h>
+#include "bristlemouth/bm/bm_l2.h"
 #include "bsp.h"
 #include "eth_adin2111.h"
 #include "task_priorities.h"

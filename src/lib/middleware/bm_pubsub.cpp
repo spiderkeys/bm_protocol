@@ -4,8 +4,8 @@
 #include "lwip/inet.h"
 #include "bm_pubsub.h"
 #include "middleware.h"
-#include "bm_util.h"
-#include "bcmp_resource_discovery.h"
+#include "bristlemouth/bm/bm_util.h"
+#include "bristlemouth/bcmp/bcmp_resource_discovery.h"
 
 typedef struct {
   uint8_t type;

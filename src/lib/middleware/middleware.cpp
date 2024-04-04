@@ -1,8 +1,8 @@
 #include <string.h>
 #include "FreeRTOS.h"
-#include "bm_ports.h"
+#include "bristlemouth/bm/bm_ports.h"
 #include "bm_pubsub.h"
-#include "bm_util.h"
+#include "bristlemouth/bm/bm_util.h"
 #include "lwip/inet.h"
 #include "lwip/ip_addr.h"
 #include "lwip/pbuf.h"
